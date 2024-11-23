@@ -23,3 +23,5 @@ Future Scope
 Integration with real-time data from medical imaging systems.
 Optimization for faster predictions on edge devices.
 Explore the project to contribute, provide feedback, or use it as a foundation for your own machine learning endeavors in healthcare!
+
+
